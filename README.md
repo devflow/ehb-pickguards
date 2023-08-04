@@ -1,7 +1,7 @@
 # Ibanez EHB 1505ms/1005ms Bass Cutsom Pickguard
 
-![Preview](/images/preview.PNG)
-![Preview](/images/preview2.PNG)
+![Preview](/images/preview.png)
+![Preview](/images/preview2.png)
 
 
 D-Style pickguard.
